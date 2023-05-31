@@ -13,3 +13,5 @@ Prerequisites
 Installation
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running the following command:
+
+```pip install -r requirements.txt```
