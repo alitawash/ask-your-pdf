@@ -45,8 +45,8 @@ Click the "Upload your PDF" button to select a PDF file for analysis.
 
 - The application will process your question and display the corresponding answer.
 - The answer will be shown in the format:
-- "Your Answer: [answer]"
-- "Your Spending: [spending]"
+     - "Your Answer: [answer]"
+     - "Your Spending: [spending]"
 
 # Important Note
 
