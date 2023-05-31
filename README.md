@@ -22,11 +22,15 @@ Installation
 # Configuration
 1. Create a .env file in the project directory.
 2. Add your OpenAI API key to the .env file using the following format:
-``` OPENAI_API_KEY=your_api_key_here ```
+``` 
+OPENAI_API_KEY=your_api_key_here 
+```
 
 # Running the Application
 To start the server locally, execute the following command:
-` streamlit run app.py `
+``` 
+streamlit run app.py 
+```
 The application will be accessible in your browser at http://localhost:8501.
 
 # Uploading a PDF
