@@ -7,8 +7,8 @@ AskYourPDF is a Streamlit application that allows users to ask questions about t
 To run the AskYourPDF application locally, follow these steps:
 
 Prerequisites
-- 1. Python 3.x
-- 2. OpenAI API key
+1. Python 3.x
+2. OpenAI API key
 
 Installation
 -Clone this repository to your local machine.
