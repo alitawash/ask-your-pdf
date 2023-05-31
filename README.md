@@ -11,5 +11,5 @@ Prerequisites
 2. OpenAI API key
 
 Installation
--Clone this repository to your local machine.
--Install the required dependencies by running the following command:
+1. Clone this repository to your local machine.
+2. Install the required dependencies by running the following command:
